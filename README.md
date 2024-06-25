@@ -53,7 +53,7 @@ Para ejecutar el notebook, sigue estos pasos:
 
 sh
 Copiar código
-git clone https://github.com/tu_usuario/vision_artificial_basica.git
+git clone https://github.com:Yceballos/Vision-Artificial-Para-Dummies.git
 cd vision_artificial_basica
 Instala las dependencias:
 
